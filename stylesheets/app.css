@@ -4960,7 +4960,7 @@ li.post-box {
 
   /* line 199, ../sass/app.scss */
   .dock {
-    background: rgba(79, 75, 75, 0.43);
+    background: rgba(79, 75, 75, 1);
     position: relative;
     display: block;
     height: 50%;
