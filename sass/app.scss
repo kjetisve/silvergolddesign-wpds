@@ -197,7 +197,7 @@ li.post-box {
 		  margin: 0;
 		}
 		.dock {
-			background: rgba(79,75,75,0.43);
+			background: rgba(79,75,75,1);
 			position: relative;
 			display: block;
 //			height: 215px;
@@ -205,7 +205,7 @@ li.post-box {
 			width: 100%;
 		}
 			.dock .columns {
-				border-right: 1px solid rgba(255,255,255,0.4);
+				border-right: 1px solid rgba(255,255,255,1);
 				display: inline-block;
 				height: 100%;
 				padding: .3em 1em;
